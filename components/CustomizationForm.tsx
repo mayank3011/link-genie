@@ -31,7 +31,7 @@ function CustomizationForm() {
   });
 
   const [isLoading, startTransition] = useTransition();
-  const [isUploading, startUploading] = useTransition();
+  const [isUploading] = useTransition();
 
   useEffect(() => {
     if (existingCustomizations) {

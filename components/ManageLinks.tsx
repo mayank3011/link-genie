@@ -22,6 +22,7 @@ import { Button } from "./ui/button";
 import SortableItem from "./SortableItem";
 import Link from "next/link";
 import { Plus } from "lucide-react";
+import { Id } from "@/convex/_generated/dataModel";
 
 function ManageLinks({
   preloadedLinks,
