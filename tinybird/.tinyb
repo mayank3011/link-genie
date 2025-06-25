@@ -1,14 +1,14 @@
 {
     "host": "https://api.europe-west2.gcp.tinybird.co",
-    "id": "faaa3357-68cb-4fc1-b517-d8f1579fc8f2",
-    "name": "mfdhd",
+    "id": "1ea1ffd2-7811-4a3d-9c5d-16387692a6fc",
+    "name": "linkifys",
     "scope": "user",
-    "token": "p.eyJ1IjogImZhYWEzMzU3LTY4Y2ItNGZjMS1iNTE3LWQ4ZjE1NzlmYzhmMiIsICJpZCI6ICJkZGU0MDYyOC1hMmE5LTQ0MDUtYTYxNy00ZmFiYmI5OTlmMjciLCAiaG9zdCI6ICJnY3AtZXVyb3BlLXdlc3QyIn0.14AU-2asIuqvsGaJZXZIRjK47WuoY7W-SlOqxHdSvDg",
+    "token": "p.eyJ1IjogIjFlYTFmZmQyLTc4MTEtNGEzZC05YzVkLTE2Mzg3NjkyYTZmYyIsICJpZCI6ICI2NGEwNjUyNC0xODQ3LTQ4MjQtODY1NS03ZjU1YzExNjlkMmMiLCAiaG9zdCI6ICJnY3AtZXVyb3BlLXdlc3QyIn0.IgO9TuNsDL4VP-LjVeSQ9fSOic4WCrvZ_Q-ZKrEa7VA",
     "tokens": {
-        "https://api.europe-west2.gcp.tinybird.co": "p.eyJ1IjogImZhYWEzMzU3LTY4Y2ItNGZjMS1iNTE3LWQ4ZjE1NzlmYzhmMiIsICJpZCI6ICJkZGU0MDYyOC1hMmE5LTQ0MDUtYTYxNy00ZmFiYmI5OTlmMjciLCAiaG9zdCI6ICJnY3AtZXVyb3BlLXdlc3QyIn0.14AU-2asIuqvsGaJZXZIRjK47WuoY7W-SlOqxHdSvDg"
+        "https://api.europe-west2.gcp.tinybird.co": "p.eyJ1IjogIjFlYTFmZmQyLTc4MTEtNGEzZC05YzVkLTE2Mzg3NjkyYTZmYyIsICJpZCI6ICI2NGEwNjUyNC0xODQ3LTQ4MjQtODY1NS03ZjU1YzExNjlkMmMiLCAiaG9zdCI6ICJnY3AtZXVyb3BlLXdlc3QyIn0.IgO9TuNsDL4VP-LjVeSQ9fSOic4WCrvZ_Q-ZKrEa7VA"
     },
     "user_email": "mayankrajpu3012@gmail.com",
     "user_id": "8f1ac41a-b758-45d1-9b57-83b6268c4801",
     "user_token": "p.eyJ1IjogIjhmMWFjNDFhLWI3NTgtNDVkMS05YjU3LTgzYjYyNjhjNDgwMSIsICJpZCI6ICJjMDlhNDE2Mi0wY2EyLTRkZmUtOWIyMS1iMTE3NmQ4MDYxYTgiLCAiaG9zdCI6ICJnY3AtZXVyb3BlLXdlc3QyIn0.bAA-1vXv6tZd2_7-fWO-4PmHnx1L2G_iUTWOCYzNPY8",
-    "version": "0.0.1.dev228"
+    "version": "0.0.1.dev231"
 }
